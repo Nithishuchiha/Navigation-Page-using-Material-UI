@@ -1,0 +1,105 @@
+.container {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.container h1,
+.container h3 {
+  color: #333;
+}
+
+.container p {
+  color: #555;
+  line-height: 1.6;
+}
+
+.container button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.container button:hover {
+  background-color: #45a049;
+}
+
+.container a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.container a:hover {
+  text-decoration: underline;
+}
+
+.paragraph {
+  font-size: 1.2em;
+  color: #333;
+  line-height: 1.6;
+  text-align: justify;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.contentContainer {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.contentContainer h1 {
+  color: #333;
+  text-align: center;
+  font-weight: bold;
+}
+
+.contentContainer p {
+  color: #555;
+  line-height: 1.6;
+}
+
+.contentContainer button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contentContainer button:hover {
+  background-color: #45a049;
+}
+
+.contentContainer a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.contentContainer a:hover {
+  text-decoration: underline;
+}
+.logoImage {
+  width: 200px;
+  height: 60px;
+  object-fit: contain;
+}
